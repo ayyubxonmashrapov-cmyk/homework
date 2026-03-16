@@ -40,3 +40,4 @@ print(*[" "*(n-i//2) + "*"*i for i in range(n*2-1, 0, -2)], sep="\n", end="\n\n"
 
 print(*[" "*(n-i//2) + "*"*i for i in range(1, n*2, 2)], *[" "*(n-i//2) + "*"*i for i in range((n-1)*2-1, 0, -2)],sep="\n", end="\n\n")
 
+print(*["".join(f"{'@ '}{'   ' * (n-i-1)}{' * '*(i+2)}") for i in range(n)], sep = "\n")
