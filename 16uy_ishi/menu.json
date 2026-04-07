@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Pepperoni",
+        "price": 55000,
+        "old_price": 55000,
+        "discount": 0
+    },
+    {
+        "name": "Greek Salad",
+        "price": 20000,
+        "old_price": 20000,
+        "discount": 30
+    },
+    {
+        "name": "French Fries",
+        "price": 15000,
+        "old_price": 15000,
+        "discount": 0
+    },
+    {
+        "name": "Salmon Roll",
+        "price": 72000,
+        "old_price": 72000,
+        "discount": 0
+    },
+    {
+        "name": "Non",
+        "price": 5000,
+        "old_price": 0,
+        "discount": 0
+    },
+    {
+        "name": "Choy",
+        "price": 3000,
+        "old_price": 0,
+        "discount": 0
+    }
+]
